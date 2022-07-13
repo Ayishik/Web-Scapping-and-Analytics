@@ -34,9 +34,11 @@ In this project, I have have scraped few baby names from the website [firstcry](
 5. Used Elbow algorithm to find the optimal number of clusters.
 
 	Elbow Method with Distortion
+	
  	<img src="Images/ElbowMethodDistortion.png" >
 
  	Elbow Method with Inertia
+	
  	<img src="Images/ElbowMethodInertia.png" >
 
  	Here the optimal number of clusters is 7
@@ -44,12 +46,15 @@ In this project, I have have scraped few baby names from the website [firstcry](
 6. Applied KMeans from scikit learn to create clusters of size 5,7 and 10 and reduced their dimentions to visualise them.
 
 	5 Clusters
+	
 	<img src="Images/FiveCluster.png" >
 
 	7 Clusters
+	
 	<img src="Images/SevenCluster.png" >
 
 	10 Clusters
+	
 	<img src="Images/TenCluster.png" >
 
 ## Conclusion
